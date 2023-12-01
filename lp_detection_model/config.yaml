@@ -1,0 +1,12 @@
+# Create Custom Dataset Configuration
+
+path: C:\Users\matss\Downloads\project\lp_detection_model\datasets
+train: train
+val: val
+test: test
+    
+nc: 1
+    
+names: [
+    'license_plate'
+]
